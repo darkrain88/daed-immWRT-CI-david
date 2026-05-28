@@ -1,5 +1,5 @@
 #CI项目
-name: QCA-6.12-VIKINGYFY
+name: MK-6.18-VIKINGYFY
 
 #CI计划
 on:
@@ -33,7 +33,7 @@ jobs:
       #max-parallel: 3
       matrix:
 #        CONFIG: [IPQ807X-NOWIFI, IPQ807X-WIFI,IPQ60XX-NOWIFI, IPQ60XX-WIFI]
-        CONFIG: [IPQ60XX-NOWIFI, IPQ60XX-WIFI]
+        CONFIG: [MEDIATEK]
         SOURCE: [VIKINGYFY/immortalwrt]
 #        SOURCE: [davidtall/VIKINGYFY-immort]
         BRANCH: [main]
