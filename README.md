@@ -1,6 +1,8 @@
 # OpenWRT-CI 
 云编译OpenWRT固件，开启内核eBPF，支持DAED 内核级透明代理
 
+https://github.com/davidtall/DaeWRT-CI.git
+
 官方版：
 https://github.com/immortalwrt/immortalwrt.git
 
